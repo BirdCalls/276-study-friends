@@ -248,3 +248,4 @@ The following are features that are being considered for the future:
 ●	Users can provide reviews to each other after study meeting
 ●	Admins can ban or suspend users
 ●	Google Maps API displaying common study locations
+
